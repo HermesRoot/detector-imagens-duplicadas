@@ -3,7 +3,8 @@
 **Detector de Imagens Duplicadas** é uma ferramenta gráfica para Windows, desenvolvida com `wxPython`, que identifica imagens duplicadas em uma pasta. Oferece opção para exclusão automática e geração de relatórios detalhados.
 
 ## 🖥️ Captura de Tela
-![Screenshot do HashCheck](https://raw.githubusercontent.com/HermesRoot/HashCheck/main/screenshot.jpg)
+![Screenshot do HashCheck](https://raw.githubusercontent.com/HermesRoot/detector-imagens-duplicadas/main/screenshot.jpg
+)
 
 ## ⚡ Características
 
